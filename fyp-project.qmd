@@ -1,0 +1,60 @@
+---
+title: "Final Year Project"
+---
+
+<div class="page-intro">
+My Final Year Project focuses on designing and developing a digital system to solve a real-world problem.
+</div>
+
+<div class="content-card">
+
+## Project background
+
+This project was completed prior to entering SIT and allowed me to apply concepts such as:
+
+<div class="concept-list">
+<span class="concept-tag">System analysis</span>
+<span class="concept-tag">Requirement gathering</span>
+<span class="concept-tag">Basic data processing</span>
+</div>
+
+</div>
+
+<div class="content-card">
+
+## What I learned
+
+<div class="skills-grid">
+
+<div class="skill-card">
+<h3>Problem-solving skills</h3>
+<p>Learning to break down complex problems into manageable parts and find practical solutions</p>
+</div>
+
+<div class="skill-card">
+<h3>Planning and documentation</h3>
+<p>Creating clear plans and keeping detailed records of my work throughout the project</p>
+</div>
+
+<div class="skill-card">
+<h3>Independent research</h3>
+<p>Finding information and learning new things on my own to complete the project</p>
+</div>
+
+</div>
+
+</div>
+
+<div class="content-card">
+
+## Reflection on the Use of Generative AI
+
+Generative AI was used in this project to support my learning rather than replace my own work. It helped me understand Quarto syntax, page structure, and media embedding, which allowed me to resolve issues independently.
+
+AI also guided my understanding of basic data visualization, particularly how to present numerical data clearly. However, decisions about content, layout, and interpretation were made by me.
+
+There were limitations, as some AI suggestions were generic and required critical review to ensure they met assessment requirements. This highlighted the importance of human judgement.
+
+Overall, the project taught me how to use Generative AI responsibly as a learning aid to improve understanding and problem solving.
+
+</div>

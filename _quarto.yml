@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Justin Tan Portfolio"
+  favicon: favicon.png
+  navbar:
+    logo: imgs/sit.png
+    background: white
+    left:
+      - href: index.qmd
+        text: Home
+      - href: fyp-project.qmd
+        text: FYP Project
+      - href: data-visualization.qmd
+        text: Data Visualization
+  page-footer:
+    center: "&copy; 2026 Justin Tan - Singapore Institute of Technology"
+    background: white
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    toc-location: left
+    code-fold: false
+    code-tools: false
+    smooth-scroll: true

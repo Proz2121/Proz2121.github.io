@@ -1,0 +1,39 @@
+---
+title: "Welcome"
+---
+
+<div class="hero-section">
+<h1>Welcome to My Portfolio</h1>
+<p>Hello, I'm Justin Tan - Applied Computing Student at SIT</p>
+</div>
+
+<h2 class="section-title">About Me</h2>
+
+<div class="intro-text">
+Hello, my name is Justin Tan.
+
+I am currently a student at Singapore Institute of Technology (SIT), studying Applied Computing.
+
+This website showcases some of my school work, data visualization examples, and reflections on using AI tools for learning.
+</div>
+
+<h2 class="section-title">About this site</h2>
+
+<div class="card-grid">
+
+<div class="feature-card">
+<h3>School Projects</h3>
+<p>Explore my work projects and see how I've applied what I've learned in real situations.</p>
+</div>
+
+<div class="feature-card">
+<h3>Data Visualization Work</h3>
+<p>Check out examples of how I turn numbers and data into charts and visuals that are easy to understand.</p>
+</div>
+
+<div class="feature-card">
+<h3>Personal Reflection on AI Usage</h3>
+<p>Read my thoughts on using AI tools to help with learning and personal growth.</p>
+</div>
+
+</div>

@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to My Portfolio\n\n\nHello, I’m Justin Tan - Applied Computing Student at SIT\n\n\n\nAbout Me\n\n\nHello, my name is Justin Tan.\nI am currently a student at Singapore Institute of Technology (SIT), studying Applied Computing.\nThis website showcases some of my school work, data visualization examples, and reflections on using AI tools for learning.\n\n\nAbout this site\n\n\n\n\nSchool Projects\n\n\nExplore my work projects and see how I’ve applied what I’ve learned in real situations.\n\n\n\n\nData Visualization Work\n\n\nCheck out examples of how I turn numbers and data into charts and visuals that are easy to understand.\n\n\n\n\nPersonal Reflection on AI Usage\n\n\nRead my thoughts on using AI tools to help with learning and personal growth."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#about-this-site",
+    "href": "index.html#about-this-site",
+    "title": "Welcome",
+    "section": "",
+    "text": "Academic projects\nData visualization work\nPersonal reflection on GenAI usage"
+  },
+  {
+    "objectID": "fyp-project.html",
+    "href": "fyp-project.html",
+    "title": "Final Year Project",
+    "section": "",
+    "text": "My Final Year Project focuses on designing and developing a digital system to solve a real-world problem."
+  },
+  {
+    "objectID": "fyp-project.html#project-background",
+    "href": "fyp-project.html#project-background",
+    "title": "Final Year Project",
+    "section": "Project background",
+    "text": "Project background\nThis project was completed prior to entering SIT and allowed me to apply concepts such as:\n\nSystem analysis Requirement gathering Basic data processing"
+  },
+  {
+    "objectID": "fyp-project.html#what-i-learned",
+    "href": "fyp-project.html#what-i-learned",
+    "title": "Final Year Project",
+    "section": "What I learned",
+    "text": "What I learned\n\n\n\nProblem-solving skills\n\n\nLearning to break down complex problems into manageable parts and find practical solutions\n\n\n\n\nPlanning and documentation\n\n\nCreating clear plans and keeping detailed records of my work throughout the project\n\n\n\n\nIndependent research\n\n\nFinding information and learning new things on my own to complete the project"
+  },
+  {
+    "objectID": "data-visualization.html",
+    "href": "data-visualization.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "This page presents a simple data visualization created to demonstrate how numerical data can be represented visually to support understanding and analysis.\n\n\nThe dataset used in this visualization represents a set of student test scores across five assessments. The values are numerical and allow for direct comparison between different tests."
+  },
+  {
+    "objectID": "data-visualization.html#visualization-example",
+    "href": "data-visualization.html#visualization-example",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "scores &lt;- c(65, 70, 78, 85, 90) barplot(scores, main = “Student Test Scores”, xlab = “Test Number”, ylab = “Score”)"
+  },
+  {
+    "objectID": "data-visualization.html#dataset-description",
+    "href": "data-visualization.html#dataset-description",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "The dataset used in this visualization represents a set of student test scores across five assessments. The values are numerical and allow for direct comparison between different tests."
+  },
+  {
+    "objectID": "data-visualization.html#visualization",
+    "href": "data-visualization.html#visualization",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "scores &lt;- c(65, 70, 78, 85, 90)\nbarplot( scores, main = “Student Test Scores Across Assessments”, xlab = “Assessment Number”, ylab = “Score”, col = “steelblue” )"
+  },
+  {
+    "objectID": "fyp-project.html#reflection-on-the-use-of-generative-ai",
+    "href": "fyp-project.html#reflection-on-the-use-of-generative-ai",
+    "title": "Final Year Project",
+    "section": "Reflection on the Use of Generative AI",
+    "text": "Reflection on the Use of Generative AI\nGenerative AI was used in this project to support my learning rather than replace my own work. It helped me understand Quarto syntax, page structure, and media embedding, which allowed me to resolve issues independently.\nAI also guided my understanding of basic data visualization, particularly how to present numerical data clearly. However, decisions about content, layout, and interpretation were made by me.\nThere were limitations, as some AI suggestions were generic and required critical review to ensure they met assessment requirements. This highlighted the importance of human judgement.\nOverall, the project taught me how to use Generative AI responsibly as a learning aid to improve understanding and problem solving."
+  }
+]

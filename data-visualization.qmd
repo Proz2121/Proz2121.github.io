@@ -1,0 +1,70 @@
+---
+title: "Data Visualization"
+execute:
+  echo: false
+---
+
+<div class="page-intro">
+This page presents a simple data visualization created to demonstrate how numerical data can be represented visually to support understanding and analysis.
+</div>
+
+<div class="content-card">
+
+## Dataset description
+
+The dataset used in this visualization represents a set of student test scores across five assessments. The values are numerical and allow for direct comparison between different tests.
+
+</div>
+
+<div class="chart-container">
+
+<div class="chart-title">Student Test Scores Across Assessments</div>
+
+```{r}
+scores <- c(65, 70, 78, 85, 90)
+
+barplot(
+  scores,
+  main = "",
+  xlab = "Assessment Number",
+  ylab = "Score",
+  col = c("#667eea", "#764ba2", "#667eea", "#764ba2", "#667eea"),
+  border = c("#667eea", "#764ba2", "#667eea", "#764ba2", "#667eea"),
+  ylim = c(0, 100),
+  las = 1
+)
+```
+
+</div>
+
+<div class="content-card">
+
+## Key insights
+
+<div class="stats-grid">
+
+<div class="stat-card">
+<div class="stat-value">65</div>
+<div class="stat-label">Lowest Score</div>
+</div>
+
+<div class="stat-card">
+<div class="stat-value">90</div>
+<div class="stat-label">Highest Score</div>
+</div>
+
+<div class="stat-card">
+<div class="stat-value">77.6</div>
+<div class="stat-label">Average Score</div>
+</div>
+
+<div class="stat-card">
+<div class="stat-value">+38%</div>
+<div class="stat-label">Improvement Rate</div>
+</div>
+
+</div>
+
+The data shows a clear upward trend in test scores, indicating consistent improvement across the five assessments. The student improved from 65 in the first assessment to 90 in the final assessment.
+
+</div>
